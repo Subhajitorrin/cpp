@@ -21,6 +21,6 @@ int main(){
     rectangle a; //object of the class rectangle
     a.setLengthBredth();//taking input for the length and bredth
     cout<<"Area of your rectangle: "<<a.rectangle_area()<<endl;
-    cout<<"Perimegter of your rectangle: "<<a.rectangle_perimeter();
+    cout<<"Perimeter of your rectangle: "<<a.rectangle_perimeter();
     return 0;
 }
