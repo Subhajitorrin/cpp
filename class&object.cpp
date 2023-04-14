@@ -1,3 +1,4 @@
+//Area and Perimeter of an rectangle
 #include<bits/stdc++.h>
 using namespace std;
 //class of rectangle
